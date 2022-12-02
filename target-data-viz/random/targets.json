@@ -1,0 +1,370 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "MSATTGT_ID": 0,
+        "OGIM_ID": "9cp56k7ccmo00",
+        "history": [
+          {
+            "totalMethane": 12725,
+            "time": 2
+          },
+          {
+            "totalMethane": 14248,
+            "time": 3
+          },
+          {
+            "totalMethane": 13264,
+            "time": 5
+          },
+          {
+            "totalMethane": 13239,
+            "time": 6
+          },
+          {
+            "totalMethane": 13982,
+            "time": 9
+          },
+          {
+            "totalMethane": 12347,
+            "time": 10
+          },
+          {
+            "totalMethane": 12196,
+            "time": 12
+          }
+        ],
+        "category": "low",
+        "colorHex": "#bfd3e6",
+        "colorRGB": [
+          191,
+          211,
+          230
+        ],
+        "totalAreaKM2": 11213.000898395634,
+        "totalMethaneAllTime": 132789
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.51537089590371,
+              25.694568601189598
+            ],
+            [
+              -70.51537089590371,
+              24.694568601189598
+            ],
+            [
+              -71.51537089590371,
+              24.694568601189598
+            ],
+            [
+              -71.51537089590371,
+              25.694568601189598
+            ],
+            [
+              -70.51537089590371,
+              25.694568601189598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "MSATTGT_ID": 1,
+        "OGIM_ID": "bvszlljy8vs00",
+        "history": [
+          {
+            "totalMethane": 80175,
+            "time": 1
+          },
+          {
+            "totalMethane": 83572,
+            "time": 2
+          },
+          {
+            "totalMethane": 83200,
+            "time": 5
+          },
+          {
+            "totalMethane": 88600,
+            "time": 6
+          },
+          {
+            "totalMethane": 83144,
+            "time": 9
+          },
+          {
+            "totalMethane": 84996,
+            "time": 10
+          },
+          {
+            "totalMethane": 83405,
+            "time": 13
+          }
+        ],
+        "category": "high",
+        "colorHex": "#810f7c",
+        "colorRGB": [
+          129,
+          15,
+          124
+        ],
+        "totalAreaKM2": 9989.809331610733,
+        "totalMethaneAllTime": 1012219
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.41513471262599,
+              36.777739964642535
+            ],
+            [
+              -94.41513471262599,
+              35.777739964642535
+            ],
+            [
+              -95.41513471262599,
+              35.777739964642535
+            ],
+            [
+              -95.41513471262599,
+              36.777739964642535
+            ],
+            [
+              -94.41513471262599,
+              36.777739964642535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "MSATTGT_ID": 2,
+        "OGIM_ID": "a015ox6bi7s00",
+        "history": [
+          {
+            "totalMethane": 24721,
+            "time": 0
+          },
+          {
+            "totalMethane": 25140,
+            "time": 3
+          },
+          {
+            "totalMethane": 25726,
+            "time": 5
+          },
+          {
+            "totalMethane": 29456,
+            "time": 6
+          },
+          {
+            "totalMethane": 25855,
+            "time": 8
+          },
+          {
+            "totalMethane": 26614,
+            "time": 10
+          },
+          {
+            "totalMethane": 29425,
+            "time": 12
+          }
+        ],
+        "category": "medium",
+        "colorHex": "#8c96c6",
+        "colorRGB": [
+          140,
+          150,
+          198
+        ],
+        "totalAreaKM2": 11248.35740975637,
+        "totalMethaneAllTime": 317067.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.89863603216246,
+              25.307766597288136
+            ],
+            [
+              -72.89863603216246,
+              24.307766597288136
+            ],
+            [
+              -73.89863603216246,
+              24.307766597288136
+            ],
+            [
+              -73.89863603216246,
+              25.307766597288136
+            ],
+            [
+              -72.89863603216246,
+              25.307766597288136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "MSATTGT_ID": 3,
+        "OGIM_ID": "4nedlszjlp800",
+        "history": [
+          {
+            "totalMethane": 13420,
+            "time": 2
+          },
+          {
+            "totalMethane": 13226,
+            "time": 5
+          },
+          {
+            "totalMethane": 13054,
+            "time": 7
+          },
+          {
+            "totalMethane": 12708,
+            "time": 8
+          },
+          {
+            "totalMethane": 13486,
+            "time": 9
+          },
+          {
+            "totalMethane": 13771,
+            "time": 10
+          },
+          {
+            "totalMethane": 13422,
+            "time": 12
+          }
+        ],
+        "category": "low",
+        "colorHex": "#bfd3e6",
+        "colorRGB": [
+          191,
+          211,
+          230
+        ],
+        "totalAreaKM2": 9747.930427946781,
+        "totalMethaneAllTime": 133048.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -107.53302718640282,
+              38.627472945640704
+            ],
+            [
+              -107.53302718640282,
+              37.627472945640704
+            ],
+            [
+              -108.53302718640282,
+              37.627472945640704
+            ],
+            [
+              -108.53302718640282,
+              38.627472945640704
+            ],
+            [
+              -107.53302718640282,
+              38.627472945640704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "MSATTGT_ID": 4,
+        "OGIM_ID": "48u2qf11r2a00",
+        "history": [
+          {
+            "totalMethane": 84938,
+            "time": 0
+          },
+          {
+            "totalMethane": 80735,
+            "time": 1
+          },
+          {
+            "totalMethane": 94127,
+            "time": 3
+          },
+          {
+            "totalMethane": 92934,
+            "time": 6
+          },
+          {
+            "totalMethane": 90598,
+            "time": 8
+          },
+          {
+            "totalMethane": 90360,
+            "time": 10
+          },
+          {
+            "totalMethane": 87422,
+            "time": 11
+          }
+        ],
+        "category": "high",
+        "colorHex": "#810f7c",
+        "colorRGB": [
+          129,
+          15,
+          124
+        ],
+        "totalAreaKM2": 8222.440053833108,
+        "totalMethaneAllTime": 991671
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.1817479801768,
+              48.92997098496801
+            ],
+            [
+              -74.1817479801768,
+              47.92997098496801
+            ],
+            [
+              -75.1817479801768,
+              47.92997098496801
+            ],
+            [
+              -75.1817479801768,
+              48.92997098496801
+            ],
+            [
+              -74.1817479801768,
+              48.92997098496801
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
