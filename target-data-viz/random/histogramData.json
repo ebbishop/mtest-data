@@ -1,40 +1,54 @@
 {
-  "74yhteudgwo00": {
+  "jvfs23bmdvk00": {
     "0": [
       {
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12818,
-        "totalArea": 7840.869737542722
+        "totalMethane": 16035,
+        "totalArea": 8846.674349111781
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3521,
-        "totalArea": 418.2243350993374
+        "totalMethane": 9694,
+        "totalArea": 1538.7719305054163
       },
       {
-        "binLabel": "10-30",
+        "binLabel": "10-80",
         "min": 10,
-        "max": 30,
-        "totalMethane": 849,
-        "totalArea": 38.43449637376309
+        "max": 80,
+        "totalMethane": 20710,
+        "totalArea": 511.25576849837
       },
       {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 3625,
-        "totalArea": 48.51395383438358
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 7208,
+        "totalArea": 47.33339635566033
       },
       {
-        "binLabel": "100-553",
-        "min": 100,
-        "max": 553,
-        "totalMethane": 7522,
-        "totalArea": 20.904560819311993
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 9653,
+        "totalArea": 30.810436888614042
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 8404,
+        "totalArea": 18.712038681591558
+      },
+      {
+        "binLabel": "600-872",
+        "min": 600,
+        "max": 872,
+        "totalMethane": 3790,
+        "totalArea": 5.5074770252859295
       }
     ],
     "3": [
@@ -42,36 +56,50 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12830,
-        "totalArea": 7867.318331858056
+        "totalMethane": 16196,
+        "totalArea": 8845.46078881495
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3541,
-        "totalArea": 428.46222986050583
+        "totalMethane": 9523,
+        "totalArea": 1501.328452502962
       },
       {
-        "binLabel": "10-30",
+        "binLabel": "10-80",
         "min": 10,
-        "max": 30,
-        "totalMethane": 704,
-        "totalArea": 33.48654609233115
+        "max": 80,
+        "totalMethane": 21271,
+        "totalArea": 535.6675371877529
       },
       {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 1793,
-        "totalArea": 21.7650974411159
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 7560,
+        "totalArea": 45.10720461393789
       },
       {
-        "binLabel": "100-583",
-        "min": 100,
-        "max": 583,
-        "totalMethane": 6912,
-        "totalArea": 15.914878417508431
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 8941,
+        "totalArea": 28.59827145475443
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 12927,
+        "totalArea": 28.609410579065745
+      },
+      {
+        "binLabel": "600-947",
+        "min": 600,
+        "max": 947,
+        "totalMethane": 10352,
+        "totalArea": 14.29373191329406
       }
     ],
     "5": [
@@ -79,36 +107,50 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12894,
-        "totalArea": 7832.27251160366
+        "totalMethane": 15992,
+        "totalArea": 8811.2414024631
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3595,
-        "totalArea": 434.30289643044034
+        "totalMethane": 9850,
+        "totalArea": 1543.2361180607702
       },
       {
-        "binLabel": "10-30",
+        "binLabel": "10-80",
         "min": 10,
-        "max": 30,
-        "totalMethane": 987,
-        "totalArea": 40.15020537454198
+        "max": 80,
+        "totalMethane": 21848,
+        "totalArea": 520.3076549337791
       },
       {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 3454,
-        "totalArea": 45.96243351887569
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 8125,
+        "totalArea": 48.38375054224778
       },
       {
-        "binLabel": "100-582",
-        "min": 100,
-        "max": 582,
-        "totalMethane": 6324,
-        "totalArea": 14.259036741991792
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 7049,
+        "totalArea": 22.00378642113497
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 17448,
+        "totalArea": 38.4850284263966
+      },
+      {
+        "binLabel": "600-982",
+        "min": 600,
+        "max": 982,
+        "totalMethane": 11695,
+        "totalArea": 15.407656219302721
       }
     ],
     "6": [
@@ -116,36 +158,307 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12737,
-        "totalArea": 7854.069038257885
+        "totalMethane": 15609,
+        "totalArea": 8795.94229244532
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3544,
-        "totalArea": 425.08927826120316
+        "totalMethane": 9879,
+        "totalArea": 1564.1064488737366
       },
       {
-        "binLabel": "10-30",
+        "binLabel": "10-80",
         "min": 10,
-        "max": 30,
-        "totalMethane": 658,
-        "totalArea": 30.084453800562333
+        "max": 80,
+        "totalMethane": 21970,
+        "totalArea": 526.8499459798477
       },
       {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 2672,
-        "totalArea": 35.13439159394894
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 7164,
+        "totalArea": 38.49047793628067
       },
       {
-        "binLabel": "100-572",
-        "min": 100,
-        "max": 572,
-        "totalMethane": 9905,
-        "totalArea": 22.56992175591951
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 8317,
+        "totalArea": 26.386844527335125
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 15219,
+        "totalArea": 33.00456764849935
+      },
+      {
+        "binLabel": "600-967",
+        "min": 600,
+        "max": 967,
+        "totalMethane": 10744,
+        "totalArea": 14.284819655702169
+      }
+    ],
+    "9": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 15884,
+        "totalArea": 8815.747015933877
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 9827,
+        "totalArea": 1524.4421527901743
+      },
+      {
+        "binLabel": "10-80",
+        "min": 10,
+        "max": 80,
+        "totalMethane": 22587,
+        "totalArea": 564.2643755146964
+      },
+      {
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 4648,
+        "totalArea": 27.519357313429914
+      },
+      {
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 8902,
+        "totalArea": 28.584182340305805
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 14433,
+        "totalArea": 31.90350184881458
+      },
+      {
+        "binLabel": "600-958",
+        "min": 600,
+        "max": 958,
+        "totalMethane": 4640,
+        "totalArea": 6.604811325424297
+      }
+    ],
+    "10": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 16187,
+        "totalArea": 8888.19201562066
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 9496,
+        "totalArea": 1492.704068677862
+      },
+      {
+        "binLabel": "10-80",
+        "min": 10,
+        "max": 80,
+        "totalMethane": 20929,
+        "totalArea": 515.8634187269683
+      },
+      {
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 6834,
+        "totalArea": 41.80398572688983
+      },
+      {
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 4828,
+        "totalArea": 15.399130630381011
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 14259,
+        "totalArea": 31.90022343141102
+      },
+      {
+        "binLabel": "600-988",
+        "min": 600,
+        "max": 988,
+        "totalMethane": 9806,
+        "totalArea": 13.202554252557897
+      }
+    ],
+    "12": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 15959,
+        "totalArea": 8790.645725022341
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 9967,
+        "totalArea": 1568.2983634286459
+      },
+      {
+        "binLabel": "10-80",
+        "min": 10,
+        "max": 80,
+        "totalMethane": 21541,
+        "totalArea": 532.3450777092736
+      },
+      {
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 7128,
+        "totalArea": 40.66625342593216
+      },
+      {
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 7038,
+        "totalArea": 21.99503591132168
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 15642,
+        "totalArea": 35.195585936137
+      },
+      {
+        "binLabel": "600-960",
+        "min": 600,
+        "max": 960,
+        "totalMethane": 6947,
+        "totalArea": 9.919355633076679
+      }
+    ]
+  },
+  "ggcuniy7aq800": {
+    "1": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 16043,
+        "totalArea": 8700.804531342861
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 9462,
+        "totalArea": 1472.1721490734587
+      },
+      {
+        "binLabel": "10-80",
+        "min": 10,
+        "max": 80,
+        "totalMethane": 22211,
+        "totalArea": 550.3581188117786
+      },
+      {
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 8154,
+        "totalArea": 44.422505542422584
+      },
+      {
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 7466,
+        "totalArea": 22.74669479476492
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 13574,
+        "totalArea": 30.34445135058901
+      },
+      {
+        "binLabel": "600-997",
+        "min": 600,
+        "max": 997,
+        "totalMethane": 10072,
+        "totalArea": 12.992283494947287
+      }
+    ],
+    "4": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 15858,
+        "totalArea": 8599.904044955561
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 10275,
+        "totalArea": 1586.0046734954533
+      },
+      {
+        "binLabel": "10-80",
+        "min": 10,
+        "max": 80,
+        "totalMethane": 21537,
+        "totalArea": 553.6678977428006
+      },
+      {
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 5666,
+        "totalArea": 33.58704553823252
+      },
+      {
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 7462,
+        "totalArea": 22.755199118686917
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 13508,
+        "totalArea": 29.254490842014288
+      },
+      {
+        "binLabel": "600-988",
+        "min": 600,
+        "max": 988,
+        "totalMethane": 6488,
+        "totalArea": 8.667382718076299
       }
     ],
     "7": [
@@ -153,73 +466,50 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12735,
-        "totalArea": 7877.401045317566
+        "totalMethane": 15874,
+        "totalArea": 8685.56767010657
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3487,
-        "totalArea": 416.69299118116993
+        "totalMethane": 9765,
+        "totalArea": 1507.0061138014644
       },
       {
-        "binLabel": "10-30",
+        "binLabel": "10-80",
         "min": 10,
-        "max": 30,
-        "totalMethane": 695,
-        "totalArea": 29.313787339208584
+        "max": 80,
+        "totalMethane": 21551,
+        "totalArea": 532.9480117279242
       },
       {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 2046,
-        "totalArea": 25.983662226117552
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 7914,
+        "totalArea": 43.310348748004984
       },
       {
-        "binLabel": "100-594",
-        "min": 100,
-        "max": 594,
-        "totalMethane": 7684,
-        "totalArea": 17.55559760545014
-      }
-    ],
-    "9": [
-      {
-        "binLabel": "0-5",
-        "min": 0,
-        "max": 5,
-        "totalMethane": 12773,
-        "totalArea": 7863.900185211602
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 8389,
+        "totalArea": 25.972793798166627
       },
       {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 3414,
-        "totalArea": 405.12389820927376
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 13483,
+        "totalArea": 29.28106081829233
       },
       {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 976,
-        "totalArea": 42.65301994786085
-      },
-      {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 2921,
-        "totalArea": 35.997447766198725
-      },
-      {
-        "binLabel": "100-598",
-        "min": 100,
-        "max": 598,
-        "totalMethane": 7625,
-        "totalArea": 19.272532534589416
+        "binLabel": "600-988",
+        "min": 600,
+        "max": 988,
+        "totalMethane": 7561,
+        "totalArea": 9.754735410408072
       }
     ],
     "10": [
@@ -227,223 +517,353 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12883,
-        "totalArea": 7849.104302165766
+        "totalMethane": 16224,
+        "totalArea": 8705.005239260732
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3629,
-        "totalArea": 431.6770211626278
+        "totalMethane": 9543,
+        "totalArea": 1479.8366671675494
       },
       {
-        "binLabel": "10-30",
+        "binLabel": "10-80",
         "min": 10,
-        "max": 30,
-        "totalMethane": 812,
-        "totalArea": 35.16716567546102
+        "max": 80,
+        "totalMethane": 23209,
+        "totalArea": 527.6422215553927
       },
       {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 1975,
-        "totalArea": 26.76737654713664
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 9568,
+        "totalArea": 55.299717417051596
       },
       {
-        "binLabel": "100-589",
-        "min": 100,
-        "max": 589,
-        "totalMethane": 10364,
-        "totalArea": 24.23121811852507
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 8746,
+        "totalArea": 25.982898163803732
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 13523,
+        "totalArea": 28.163727422261257
+      },
+      {
+        "binLabel": "600-989",
+        "min": 600,
+        "max": 989,
+        "totalMethane": 9094,
+        "totalArea": 11.910263424022114
+      }
+    ],
+    "13": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 15896,
+        "totalArea": 8674.588358533281
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 9755,
+        "totalArea": 1508.253657137496
+      },
+      {
+        "binLabel": "10-80",
+        "min": 10,
+        "max": 80,
+        "totalMethane": 22833,
+        "totalArea": 540.5276858675899
+      },
+      {
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 7811,
+        "totalArea": 42.25977311794235
+      },
+      {
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 7784,
+        "totalArea": 23.82623806298024
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 14514,
+        "totalArea": 31.393685191914336
+      },
+      {
+        "binLabel": "600-946",
+        "min": 600,
+        "max": 946,
+        "totalMethane": 9483,
+        "totalArea": 12.991336499609316
+      }
+    ],
+    "16": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 15826,
+        "totalArea": 8609.593724553184
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 10057,
+        "totalArea": 1552.4894434056275
+      },
+      {
+        "binLabel": "10-80",
+        "min": 10,
+        "max": 80,
+        "totalMethane": 22596,
+        "totalArea": 557.915160669316
+      },
+      {
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 7217,
+        "totalArea": 48.79354808763437
+      },
+      {
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 9130,
+        "totalArea": 28.192303164519352
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 14318,
+        "totalArea": 30.351650499835284
+      },
+      {
+        "binLabel": "600-986",
+        "min": 600,
+        "max": 986,
+        "totalMethane": 5368,
+        "totalArea": 6.504904030709142
+      }
+    ],
+    "17": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 15970,
+        "totalArea": 8671.413334358853
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 9643,
+        "totalArea": 1501.5658208885834
+      },
+      {
+        "binLabel": "10-80",
+        "min": 10,
+        "max": 80,
+        "totalMethane": 22687,
+        "totalArea": 552.4932291896835
+      },
+      {
+        "binLabel": "80-300",
+        "min": 80,
+        "max": 300,
+        "totalMethane": 8193,
+        "totalArea": 46.56147158184302
+      },
+      {
+        "binLabel": "300-400",
+        "min": 300,
+        "max": 400,
+        "totalMethane": 5954,
+        "totalArea": 18.429614745444
+      },
+      {
+        "binLabel": "400-600",
+        "min": 400,
+        "max": 600,
+        "totalMethane": 15360,
+        "totalArea": 31.44770753839005
+      },
+      {
+        "binLabel": "600-939",
+        "min": 600,
+        "max": 939,
+        "totalMethane": 8510,
+        "totalArea": 11.92955610803597
       }
     ]
   },
-  "j6t5oxdxyns00": {
-    "1": [
+  "bv6fjag5a8800": {
+    "2": [
       {
         "binLabel": "0-3",
         "min": 0,
         "max": 3,
-        "totalMethane": 9565,
-        "totalArea": 8091.25440178013
+        "totalMethane": 9675,
+        "totalArea": 9019.303348599171
       },
       {
         "binLabel": "3-5",
         "min": 3,
         "max": 5,
-        "totalMethane": 1316,
-        "totalArea": 317.1194306414195
+        "totalMethane": 1340,
+        "totalArea": 361.97585283131366
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 180,
-        "totalArea": 22.792760030414367
+        "totalMethane": 203,
+        "totalArea": 27.294458653189754
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 250,
-        "totalArea": 11.86144582828984
+        "totalMethane": 209,
+        "totalArea": 10.372633704507344
       },
       {
-        "binLabel": "30-356",
+        "binLabel": "30-378",
         "min": 30,
-        "max": 356,
-        "totalMethane": 2403,
-        "totalArea": 11.001963679825217
+        "max": 378,
+        "totalMethane": 2423,
+        "totalArea": 7.540206620045591
       }
     ],
-    "4": [
+    "5": [
       {
         "binLabel": "0-3",
         "min": 0,
         "max": 3,
-        "totalMethane": 9388,
-        "totalArea": 8129.363007948716
+        "totalMethane": 9575,
+        "totalArea": 9059.058403520474
       },
       {
         "binLabel": "3-5",
         "min": 3,
         "max": 5,
-        "totalMethane": 1181,
-        "totalArea": 285.74448240484935
+        "totalMethane": 1233,
+        "totalArea": 332.57042099418936
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 176,
-        "totalArea": 21.14083212061655
+        "totalMethane": 95,
+        "totalArea": 12.241820845516127
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 157,
-        "totalArea": 7.636829832782372
+        "totalMethane": 187,
+        "totalArea": 9.42605878956618
       },
       {
-        "binLabel": "30-326",
+        "binLabel": "30-354",
         "min": 30,
-        "max": 326,
-        "totalMethane": 2631,
-        "totalArea": 10.144849653119092
+        "max": 354,
+        "totalMethane": 3174,
+        "totalArea": 13.189796258476964
       }
     ],
-    "6": [
+    "8": [
       {
         "binLabel": "0-3",
         "min": 0,
         "max": 3,
-        "totalMethane": 9434,
-        "totalArea": 8128.662782536156
+        "totalMethane": 9669,
+        "totalArea": 9066.460111373113
       },
       {
         "binLabel": "3-5",
         "min": 3,
         "max": 5,
-        "totalMethane": 1200,
-        "totalArea": 292.39312614276434
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 132,
-        "totalArea": 14.348647771130624
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 268,
-        "totalArea": 12.711189654057845
-      },
-      {
-        "binLabel": "30-369",
-        "min": 30,
-        "max": 369,
-        "totalMethane": 1690,
-        "totalArea": 5.914255855976636
-      }
-    ],
-    "9": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9563,
-        "totalArea": 8088.1576110280985
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1358,
-        "totalArea": 329.57149900609977
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 175,
-        "totalArea": 21.10759837365602
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 226,
-        "totalArea": 9.283925849430558
-      },
-      {
-        "binLabel": "30-392",
-        "min": 30,
-        "max": 392,
-        "totalMethane": 1560,
-        "totalArea": 5.909367702792706
-      }
-    ],
-    "10": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9549,
-        "totalArea": 8113.3792531440995
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1269,
-        "totalArea": 309.3988783562071
+        "totalMethane": 1215,
+        "totalArea": 325.1443368815963
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
         "totalMethane": 126,
-        "totalArea": 15.184859685505105
+        "totalArea": 17.913155721097
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 214,
-        "totalArea": 8.47000014638605
+        "totalMethane": 219,
+        "totalArea": 10.370459473155108
       },
       {
-        "binLabel": "30-389",
+        "binLabel": "30-395",
         "min": 30,
-        "max": 389,
-        "totalMethane": 2048,
-        "totalArea": 7.597010627883343
+        "max": 395,
+        "totalMethane": 1536,
+        "totalArea": 6.598436959264382
+      }
+    ],
+    "9": [
+      {
+        "binLabel": "0-3",
+        "min": 0,
+        "max": 3,
+        "totalMethane": 9626,
+        "totalArea": 9071.936095935582
+      },
+      {
+        "binLabel": "3-5",
+        "min": 3,
+        "max": 5,
+        "totalMethane": 1179,
+        "totalArea": 320.5854483538752
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 122,
+        "totalArea": 16.97304688238352
+      },
+      {
+        "binLabel": "10-30",
+        "min": 10,
+        "max": 30,
+        "totalMethane": 243,
+        "totalArea": 10.396842815344188
+      },
+      {
+        "binLabel": "30-399",
+        "min": 30,
+        "max": 399,
+        "totalMethane": 1275,
+        "totalArea": 6.595066421051792
       }
     ],
     "12": [
@@ -451,36 +871,36 @@
         "binLabel": "0-3",
         "min": 0,
         "max": 3,
-        "totalMethane": 9633,
-        "totalArea": 8115.905482527681
+        "totalMethane": 9795,
+        "totalArea": 9059.88631194827
       },
       {
         "binLabel": "3-5",
         "min": 3,
         "max": 5,
-        "totalMethane": 1243,
-        "totalArea": 300.88156561216016
+        "totalMethane": 1267,
+        "totalArea": 337.4087616600707
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 150,
-        "totalArea": 18.616114192171178
+        "totalMethane": 115,
+        "totalArea": 16.94419185894602
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 248,
-        "totalArea": 11.02177267415133
+        "totalMethane": 78,
+        "totalArea": 4.696601403568442
       },
       {
-        "binLabel": "30-367",
+        "binLabel": "30-372",
         "min": 30,
-        "max": 367,
-        "totalMethane": 1823,
-        "totalArea": 7.60506695391774
+        "max": 372,
+        "totalMethane": 1680,
+        "totalArea": 7.55063353737641
       }
     ],
     "14": [
@@ -488,373 +908,186 @@
         "binLabel": "0-3",
         "min": 0,
         "max": 3,
-        "totalMethane": 9621,
-        "totalArea": 8092.234645665684
+        "totalMethane": 9586,
+        "totalArea": 9060.7360388674
       },
       {
         "binLabel": "3-5",
         "min": 3,
         "max": 5,
-        "totalMethane": 1353,
-        "totalArea": 328.8098911565231
+        "totalMethane": 1234,
+        "totalArea": 335.57319220130546
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 139,
-        "totalArea": 15.225897677546296
+        "totalMethane": 92,
+        "totalArea": 13.20646197643106
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 235,
-        "totalArea": 10.15082587024388
+        "totalMethane": 241,
+        "totalArea": 11.325125080873208
       },
       {
-        "binLabel": "30-343",
+        "binLabel": "30-393",
         "min": 30,
-        "max": 343,
-        "totalMethane": 1467,
-        "totalArea": 7.608741590077563
+        "max": 393,
+        "totalMethane": 1563,
+        "totalArea": 5.645682282225518
+      }
+    ],
+    "17": [
+      {
+        "binLabel": "0-3",
+        "min": 0,
+        "max": 3,
+        "totalMethane": 9640,
+        "totalArea": 9059.87442204753
+      },
+      {
+        "binLabel": "3-5",
+        "min": 3,
+        "max": 5,
+        "totalMethane": 1233,
+        "totalArea": 332.6763324875348
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 125,
+        "totalArea": 16.014011630973844
+      },
+      {
+        "binLabel": "10-30",
+        "min": 10,
+        "max": 30,
+        "totalMethane": 187,
+        "totalArea": 8.483818731647165
+      },
+      {
+        "binLabel": "30-380",
+        "min": 30,
+        "max": 380,
+        "totalMethane": 2496,
+        "totalArea": 9.437915510541982
       }
     ]
   },
-  "2xzddiq5rqw00": {
-    "0": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9480,
-        "totalArea": 10216.764090554643
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1274,
-        "totalArea": 387.5197188174976
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 83,
-        "totalArea": 13.84145583163576
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 256,
-        "totalArea": 13.838402910114226
-      },
-      {
-        "binLabel": "30-382",
-        "min": 30,
-        "max": 382,
-        "totalMethane": 2864,
-        "totalArea": 14.909961667338917
-      }
-    ],
-    "2": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9524,
-        "totalArea": 10244.423153586931
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1174,
-        "totalArea": 351.34939232104836
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 198,
-        "totalArea": 30.864580533593998
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 206,
-        "totalArea": 9.587639330181013
-      },
-      {
-        "binLabel": "30-385",
-        "min": 30,
-        "max": 385,
-        "totalMethane": 2381,
-        "totalArea": 10.64886400947919
-      }
-    ],
-    "4": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9734,
-        "totalArea": 10226.277578480118
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1260,
-        "totalArea": 388.6346831531301
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 121,
-        "totalArea": 18.109786495034744
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 141,
-        "totalArea": 7.4511504791666265
-      },
-      {
-        "binLabel": "30-368",
-        "min": 30,
-        "max": 368,
-        "totalMethane": 749,
-        "totalArea": 6.4004311737917625
-      }
-    ],
-    "7": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9526,
-        "totalArea": 10192.336444378589
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1340,
-        "totalArea": 403.46718594116584
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 136,
-        "totalArea": 22.327914328091968
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 255,
-        "totalArea": 14.906837564283947
-      },
-      {
-        "binLabel": "30-375",
-        "min": 30,
-        "max": 375,
-        "totalMethane": 2766,
-        "totalArea": 13.8352475691273
-      }
-    ],
-    "9": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9696,
-        "totalArea": 10210.313621704281
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1268,
-        "totalArea": 386.5350906357801
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 180,
-        "totalArea": 28.740650505196285
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 239,
-        "totalArea": 11.701503015616924
-      },
-      {
-        "binLabel": "30-301",
-        "min": 30,
-        "max": 301,
-        "totalMethane": 1464,
-        "totalArea": 9.582763920362428
-      }
-    ],
-    "10": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9638,
-        "totalArea": 10232.637612742918
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1207,
-        "totalArea": 370.5941293703417
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 130,
-        "totalArea": 20.236589722313983
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 222,
-        "totalArea": 11.700079298522917
-      },
-      {
-        "binLabel": "30-304",
-        "min": 30,
-        "max": 304,
-        "totalMethane": 2251,
-        "totalArea": 11.705218647139427
-      }
-    ],
-    "12": [
-      {
-        "binLabel": "0-3",
-        "min": 0,
-        "max": 3,
-        "totalMethane": 9497,
-        "totalArea": 10228.318474235199
-      },
-      {
-        "binLabel": "3-5",
-        "min": 3,
-        "max": 5,
-        "totalMethane": 1220,
-        "totalArea": 364.23485629167544
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 182,
-        "totalArea": 26.612225307116475
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 196,
-        "totalArea": 11.727888622019336
-      },
-      {
-        "binLabel": "30-379",
-        "min": 30,
-        "max": 379,
-        "totalMethane": 3616,
-        "totalArea": 15.98018532523335
-      }
-    ]
-  },
-  "6pppzdf431g00": {
+  "k17npps16ho00": {
     "1": [
       {
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12705,
-        "totalArea": 10145.969505454023
+        "totalMethane": 13074,
+        "totalArea": 7702.432320747991
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3640,
-        "totalArea": 555.0737151287323
+        "totalMethane": 3432,
+        "totalArea": 408.35714145109625
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 928,
-        "totalArea": 54.087403050586886
+        "totalMethane": 918,
+        "totalArea": 37.69718962120513
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 2767,
-        "totalArea": 46.5498405450241
-      },
-      {
-        "binLabel": "100-594",
-        "min": 100,
-        "max": 594,
-        "totalMethane": 5747,
-        "totalArea": 19.4778496253114
-      }
-    ],
-    "4": [
-      {
-        "binLabel": "0-5",
-        "min": 0,
-        "max": 5,
-        "totalMethane": 12696,
-        "totalArea": 10158.839614939048
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 3400,
-        "totalArea": 530.2782231816426
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 1192,
-        "totalArea": 63.85387739883391
-      },
-      {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 2935,
-        "totalArea": 50.86408803630302
+        "totalMethane": 2480,
+        "totalArea": 34.41237979681471
       },
       {
         "binLabel": "100-553",
         "min": 100,
         "max": 553,
-        "totalMethane": 5604,
-        "totalArea": 17.322510247837823
+        "totalMethane": 6939,
+        "totalArea": 17.194172978693622
+      }
+    ],
+    "2": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 12842,
+        "totalArea": 7693.409230268802
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 3595,
+        "totalArea": 419.7927204522967
+      },
+      {
+        "binLabel": "10-30",
+        "min": 10,
+        "max": 30,
+        "totalMethane": 853,
+        "totalArea": 36.89781843375898
+      },
+      {
+        "binLabel": "30-100",
+        "min": 30,
+        "max": 100,
+        "totalMethane": 2350,
+        "totalArea": 30.322918718162963
+      },
+      {
+        "binLabel": "100-594",
+        "min": 100,
+        "max": 594,
+        "totalMethane": 8516,
+        "totalArea": 19.67051672277615
+      }
+    ],
+    "3": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 12755,
+        "totalArea": 7680.7678407580925
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 3676,
+        "totalArea": 431.5996094207788
+      },
+      {
+        "binLabel": "10-30",
+        "min": 10,
+        "max": 30,
+        "totalMethane": 800,
+        "totalArea": 33.622448498593535
+      },
+      {
+        "binLabel": "30-100",
+        "min": 30,
+        "max": 100,
+        "totalMethane": 3083,
+        "totalArea": 39.37915818030634
+      },
+      {
+        "binLabel": "100-569",
+        "min": 100,
+        "max": 569,
+        "totalMethane": 6219,
+        "totalArea": 14.724147738032789
       }
     ],
     "5": [
@@ -862,73 +1095,36 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12890,
-        "totalArea": 10126.336929892266
+        "totalMethane": 12779,
+        "totalArea": 7699.916775443001
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3757,
-        "totalArea": 575.7368491187833
+        "totalMethane": 3378,
+        "totalArea": 405.84529764013286
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 857,
-        "totalArea": 48.730783639928276
+        "totalMethane": 1012,
+        "totalArea": 41.829429298569316
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 3012,
-        "totalArea": 49.79887122187956
+        "totalMethane": 2532,
+        "totalArea": 32.80360397090563
       },
       {
-        "binLabel": "100-562",
+        "binLabel": "100-584",
         "min": 100,
-        "max": 562,
-        "totalMethane": 7035,
-        "totalArea": 20.5548799308158
-      }
-    ],
-    "6": [
-      {
-        "binLabel": "0-5",
-        "min": 0,
-        "max": 5,
-        "totalMethane": 12921,
-        "totalArea": 10168.672357981399
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 3462,
-        "totalArea": 536.6873292618122
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 1016,
-        "totalArea": 57.3542420784242
-      },
-      {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 2208,
-        "totalArea": 36.793659567277196
-      },
-      {
-        "binLabel": "100-465",
-        "min": 100,
-        "max": 465,
-        "totalMethane": 6855,
-        "totalArea": 21.650724914761216
+        "max": 584,
+        "totalMethane": 8751,
+        "totalArea": 19.698098243190927
       }
     ],
     "8": [
@@ -936,36 +1132,36 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 13004,
-        "totalArea": 10164.460345119509
+        "totalMethane": 12784,
+        "totalArea": 7679.331258739186
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3608,
-        "totalArea": 555.0084617842771
+        "totalMethane": 3752,
+        "totalArea": 443.6697159304134
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 798,
-        "totalArea": 47.62275426307364
+        "totalMethane": 676,
+        "totalArea": 27.083230091902703
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 2196,
-        "totalArea": 41.08122432844367
+        "totalMethane": 2428,
+        "totalArea": 28.70400240461195
       },
       {
-        "binLabel": "100-580",
+        "binLabel": "100-595",
         "min": 100,
-        "max": 580,
-        "totalMethane": 4732,
-        "totalArea": 12.985528308362188
+        "max": 595,
+        "totalMethane": 8140,
+        "totalArea": 21.30499742968742
       }
     ],
     "10": [
@@ -973,36 +1169,36 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12946,
-        "totalArea": 10153.464799551133
+        "totalMethane": 12949,
+        "totalArea": 7739.957951333115
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3617,
-        "totalArea": 564.9025026378819
+        "totalMethane": 3244,
+        "totalArea": 381.3239549421546
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 821,
-        "totalArea": 45.437828883135616
+        "totalMethane": 757,
+        "totalArea": 31.221642928782995
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 2274,
-        "totalArea": 36.77711491824169
+        "totalMethane": 2153,
+        "totalArea": 32.000120481343124
       },
       {
-        "binLabel": "100-564",
+        "binLabel": "100-546",
         "min": 100,
-        "max": 564,
-        "totalMethane": 6898,
-        "totalArea": 20.576067813282496
+        "max": 546,
+        "totalMethane": 6034,
+        "totalArea": 15.589534910399012
       }
     ],
     "11": [
@@ -1010,75 +1206,149 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12969,
-        "totalArea": 10184.88784799633
+        "totalMethane": 12965,
+        "totalArea": 7744.272816604453
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3373,
-        "totalArea": 522.6811203689298
+        "totalMethane": 3178,
+        "totalArea": 375.4841815434047
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 830,
-        "totalArea": 47.59625702534133
+        "totalMethane": 624,
+        "totalArea": 27.03082315625956
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 2300,
-        "totalArea": 40.04416971315896
+        "totalMethane": 2692,
+        "totalArea": 34.465705532030356
       },
       {
-        "binLabel": "100-594",
+        "binLabel": "100-569",
         "min": 100,
-        "max": 594,
-        "totalMethane": 9703,
-        "totalArea": 25.948918699918373
+        "max": 569,
+        "totalMethane": 6381,
+        "totalArea": 18.839677759651774
       }
     ]
   },
-  "6yr718awou000": {
+  "ek1wg44mzgo00": {
+    "0": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 12774,
+        "totalArea": 8831.937124817772
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 3424,
+        "totalArea": 465.74854038712215
+      },
+      {
+        "binLabel": "10-30",
+        "min": 10,
+        "max": 30,
+        "totalMethane": 576,
+        "totalArea": 26.285927146925175
+      },
+      {
+        "binLabel": "30-100",
+        "min": 30,
+        "max": 100,
+        "totalMethane": 2556,
+        "totalArea": 36.644309721382434
+      },
+      {
+        "binLabel": "100-592",
+        "min": 100,
+        "max": 592,
+        "totalMethane": 10623,
+        "totalArea": 29.12564986586117
+      }
+    ],
     "2": [
       {
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12978,
-        "totalArea": 8307.750321405125
+        "totalMethane": 12920,
+        "totalArea": 8845.04453719073
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3590,
-        "totalArea": 451.2865271942845
+        "totalMethane": 3407,
+        "totalArea": 454.53496646605464
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 794,
-        "totalArea": 35.40158819396073
+        "totalMethane": 585,
+        "totalArea": 31.907216282436078
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 2496,
-        "totalArea": 35.385760400112225
+        "totalMethane": 2487,
+        "totalArea": 35.706144610569986
       },
       {
-        "binLabel": "100-578",
+        "binLabel": "100-580",
         "min": 100,
-        "max": 578,
-        "totalMethane": 8866,
-        "totalArea": 19.4887794611445
+        "max": 580,
+        "totalMethane": 8999,
+        "totalArea": 22.548687389258554
+      }
+    ],
+    "4": [
+      {
+        "binLabel": "0-5",
+        "min": 0,
+        "max": 5,
+        "totalMethane": 12890,
+        "totalArea": 8818.045973784467
+      },
+      {
+        "binLabel": "5-10",
+        "min": 5,
+        "max": 10,
+        "totalMethane": 3621,
+        "totalArea": 475.07619767457066
+      },
+      {
+        "binLabel": "10-30",
+        "min": 10,
+        "max": 30,
+        "totalMethane": 845,
+        "totalArea": 37.519201489945985
+      },
+      {
+        "binLabel": "30-100",
+        "min": 30,
+        "max": 100,
+        "totalMethane": 2930,
+        "totalArea": 43.14591674975754
+      },
+      {
+        "binLabel": "100-565",
+        "min": 100,
+        "max": 565,
+        "totalMethane": 5361,
+        "totalArea": 15.954262240307969
       }
     ],
     "5": [
@@ -1086,110 +1356,110 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12811,
-        "totalArea": 8298.895091180231
+        "totalMethane": 12997,
+        "totalArea": 8827.28258738413
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3533,
-        "totalArea": 452.1230305811867
+        "totalMethane": 3532,
+        "totalArea": 474.1711584938398
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 779,
-        "totalArea": 33.63555118401085
+        "totalMethane": 687,
+        "totalArea": 31.977231797150544
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 3004,
-        "totalArea": 40.752516051442676
+        "totalMethane": 3161,
+        "totalArea": 43.180877888183204
       },
       {
-        "binLabel": "100-592",
+        "binLabel": "100-460",
         "min": 100,
-        "max": 592,
-        "totalMethane": 8255,
-        "totalArea": 23.906787657748104
+        "max": 460,
+        "totalMethane": 3681,
+        "totalArea": 13.12969637574734
       }
     ],
-    "6": [
+    "7": [
       {
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12894,
-        "totalArea": 8331.548001784604
+        "totalMethane": 12631,
+        "totalArea": 8800.13723123765
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3444,
-        "totalArea": 438.99729218154505
+        "totalMethane": 3692,
+        "totalArea": 498.46825203152105
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 715,
-        "totalArea": 30.969960044715812
+        "totalMethane": 742,
+        "totalArea": 36.61467367719096
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 2276,
-        "totalArea": 31.88018716000791
+        "totalMethane": 2561,
+        "totalArea": 33.852711454260685
       },
       {
-        "binLabel": "100-589",
+        "binLabel": "100-575",
         "min": 100,
-        "max": 589,
-        "totalMethane": 6443,
-        "totalArea": 15.9175354837548
+        "max": 575,
+        "totalMethane": 7008,
+        "totalArea": 20.668683538439804
       }
     ],
-    "8": [
+    "9": [
       {
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 12892,
-        "totalArea": 8310.562773978872
+        "totalMethane": 12946,
+        "totalArea": 8792.52434943544
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3491,
-        "totalArea": 445.9302886491802
+        "totalMethane": 3604,
+        "totalArea": 491.1637284485161
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 699,
-        "totalArea": 33.59294604804247
+        "totalMethane": 922,
+        "totalArea": 43.16932080126942
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 2746,
-        "totalArea": 35.37142958081806
+        "totalMethane": 2741,
+        "totalArea": 38.47115644537705
       },
       {
-        "binLabel": "100-552",
+        "binLabel": "100-588",
         "min": 100,
-        "max": 552,
-        "totalMethane": 8204,
-        "totalArea": 23.855538397717226
+        "max": 588,
+        "totalMethane": 8888,
+        "totalArea": 24.41299680844324
       }
     ],
     "10": [
@@ -1197,110 +1467,36 @@
         "binLabel": "0-5",
         "min": 0,
         "max": 5,
-        "totalMethane": 13082,
-        "totalArea": 8315.761930137747
+        "totalMethane": 12793,
+        "totalArea": 8805.77992679279
       },
       {
         "binLabel": "5-10",
         "min": 5,
         "max": 10,
-        "totalMethane": 3577,
-        "totalArea": 451.33217915218717
+        "totalMethane": 3553,
+        "totalArea": 476.95726267879394
       },
       {
         "binLabel": "10-30",
         "min": 10,
         "max": 30,
-        "totalMethane": 678,
-        "totalArea": 34.49542767261262
+        "totalMethane": 1067,
+        "totalArea": 49.74108265404374
       },
       {
         "binLabel": "30-100",
         "min": 30,
         "max": 100,
-        "totalMethane": 1886,
-        "totalArea": 29.198950391605056
+        "totalMethane": 2604,
+        "totalArea": 37.53696296251276
       },
       {
-        "binLabel": "100-587",
+        "binLabel": "100-539",
         "min": 100,
-        "max": 587,
-        "totalMethane": 8226,
-        "totalArea": 18.52448930047655
-      }
-    ],
-    "12": [
-      {
-        "binLabel": "0-5",
-        "min": 0,
-        "max": 5,
-        "totalMethane": 12841,
-        "totalArea": 8320.100619199773
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 3519,
-        "totalArea": 446.8381987535439
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 638,
-        "totalArea": 29.237164614821076
-      },
-      {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 2319,
-        "totalArea": 31.88503392293244
-      },
-      {
-        "binLabel": "100-597",
-        "min": 100,
-        "max": 597,
-        "totalMethane": 6950,
-        "totalArea": 21.251960163553424
-      }
-    ],
-    "14": [
-      {
-        "binLabel": "0-5",
-        "min": 0,
-        "max": 5,
-        "totalMethane": 12918,
-        "totalArea": 8314.827223109422
-      },
-      {
-        "binLabel": "5-10",
-        "min": 5,
-        "max": 10,
-        "totalMethane": 3582,
-        "totalArea": 452.2728672334644
-      },
-      {
-        "binLabel": "10-30",
-        "min": 10,
-        "max": 30,
-        "totalMethane": 750,
-        "totalArea": 35.33847518721205
-      },
-      {
-        "binLabel": "30-100",
-        "min": 30,
-        "max": 100,
-        "totalMethane": 2080,
-        "totalArea": 29.18927001255972
-      },
-      {
-        "binLabel": "100-568",
-        "min": 100,
-        "max": 568,
-        "totalMethane": 7373,
-        "totalArea": 17.685141111966306
+        "max": 539,
+        "totalMethane": 7095,
+        "totalArea": 19.726316850922455
       }
     ]
   }

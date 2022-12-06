@@ -5,70 +5,70 @@
       "type": "Feature",
       "properties": {
         "MSATTGT_ID": 0,
-        "OGIM_ID": "74yhteudgwo00",
+        "OGIM_ID": "jvfs23bmdvk00",
         "history": [
           {
-            "totalMethane": 28335,
+            "totalMethane": 75494,
             "time": 0
           },
           {
-            "totalMethane": 25780,
+            "totalMethane": 86770,
             "time": 3
           },
           {
-            "totalMethane": 27254,
+            "totalMethane": 92007,
             "time": 5
           },
           {
-            "totalMethane": 29516,
+            "totalMethane": 88902,
             "time": 6
           },
           {
-            "totalMethane": 26647,
-            "time": 7
-          },
-          {
-            "totalMethane": 27709,
+            "totalMethane": 80921,
             "time": 9
           },
           {
-            "totalMethane": 29663,
+            "totalMethane": 82339,
             "time": 10
+          },
+          {
+            "totalMethane": 84222,
+            "time": 12
           }
         ],
-        "category": "medium",
-        "colorHex": "#8c96c6",
+        "category": "high",
+        "colorHex": "#810f7c",
         "colorRGB": [
-          140,
-          150,
-          198
+          129,
+          15,
+          124
         ],
-        "totalAreaKM2": 8366.947083666866,
-        "totalMethaneAllTime": 273715
+        "totalAreaKM2": 10999.06539705956,
+        "totalMethaneAllTime": 1015553
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -89.40141289960118,
-              48.03059703361835
+              -68.09775637645973,
+              27.926401906979155
             ],
             [
-              -89.40141289960118,
-              47.03059703361835
+              -68.09775637645973,
+              26.926401906979155
             ],
             [
-              -90.40141289960118,
-              47.03059703361835
+              -69.09775637645973,
+              26.926401906979155
             ],
             [
-              -90.40141289960118,
-              48.03059703361835
+              -69.09775637645973,
+              27.926401906979155
             ],
             [
-              -89.40141289960118,
-              48.03059703361835
+              -68.09775637645973,
+              27.926401906979155
             ]
           ]
         ]
@@ -78,70 +78,70 @@
       "type": "Feature",
       "properties": {
         "MSATTGT_ID": 1,
-        "OGIM_ID": "j6t5oxdxyns00",
+        "OGIM_ID": "ggcuniy7aq800",
         "history": [
           {
-            "totalMethane": 13714,
+            "totalMethane": 86982,
             "time": 1
           },
           {
-            "totalMethane": 13533,
+            "totalMethane": 80794,
             "time": 4
           },
           {
-            "totalMethane": 12724,
-            "time": 6
+            "totalMethane": 84537,
+            "time": 7
           },
           {
-            "totalMethane": 12882,
-            "time": 9
-          },
-          {
-            "totalMethane": 13206,
+            "totalMethane": 89907,
             "time": 10
           },
           {
-            "totalMethane": 13097,
-            "time": 12
+            "totalMethane": 88076,
+            "time": 13
           },
           {
-            "totalMethane": 12815,
-            "time": 14
+            "totalMethane": 84512,
+            "time": 16
+          },
+          {
+            "totalMethane": 86317,
+            "time": 17
           }
         ],
-        "category": "low",
-        "colorHex": "#bfd3e6",
+        "category": "high",
+        "colorHex": "#810f7c",
         "colorRGB": [
-          191,
-          211,
-          230
+          129,
+          15,
+          124
         ],
-        "totalAreaKM2": 8454.030001957215,
-        "totalMethaneAllTime": 170795.5
+        "totalAreaKM2": 10833.840734403464,
+        "totalMethaneAllTime": 1372597.5
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -86.29426234766066,
-              47.48233494973297
+              -95.06139717495304,
+              29.541311553254538
             ],
             [
-              -86.29426234766066,
-              46.48233494973297
+              -95.06139717495304,
+              28.541311553254538
             ],
             [
-              -87.29426234766066,
-              46.48233494973297
+              -96.06139717495304,
+              28.541311553254538
             ],
             [
-              -87.29426234766066,
-              47.48233494973297
+              -96.06139717495304,
+              29.541311553254538
             ],
             [
-              -86.29426234766066,
-              47.48233494973297
+              -95.06139717495304,
+              29.541311553254538
             ]
           ]
         ]
@@ -151,35 +151,35 @@
       "type": "Feature",
       "properties": {
         "MSATTGT_ID": 2,
-        "OGIM_ID": "2xzddiq5rqw00",
+        "OGIM_ID": "bv6fjag5a8800",
         "history": [
           {
-            "totalMethane": 13957,
-            "time": 0
-          },
-          {
-            "totalMethane": 13483,
+            "totalMethane": 13850,
             "time": 2
           },
           {
-            "totalMethane": 12005,
-            "time": 4
+            "totalMethane": 14264,
+            "time": 5
           },
           {
-            "totalMethane": 14023,
-            "time": 7
+            "totalMethane": 12765,
+            "time": 8
           },
           {
-            "totalMethane": 12847,
+            "totalMethane": 12445,
             "time": 9
           },
           {
-            "totalMethane": 13448,
-            "time": 10
+            "totalMethane": 12935,
+            "time": 12
           },
           {
-            "totalMethane": 14711,
-            "time": 12
+            "totalMethane": 12716,
+            "time": 14
+          },
+          {
+            "totalMethane": 13681,
+            "time": 17
           }
         ],
         "category": "low",
@@ -189,32 +189,32 @@
           211,
           230
         ],
-        "totalAreaKM2": 10646.87362977426,
-        "totalMethaneAllTime": 160146.5
+        "totalAreaKM2": 9426.48650040488,
+        "totalMethaneAllTime": 198636
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -64.81659845427754,
-              31.275134078830817
+              -102.58207810447414,
+              40.97412637191093
             ],
             [
-              -64.81659845427754,
-              30.275134078830817
+              -102.58207810447414,
+              39.97412637191093
             ],
             [
-              -65.81659845427754,
-              30.275134078830817
+              -103.58207810447414,
+              39.97412637191093
             ],
             [
-              -65.81659845427754,
-              31.275134078830817
+              -103.58207810447414,
+              40.97412637191093
             ],
             [
-              -64.81659845427754,
-              31.275134078830817
+              -102.58207810447414,
+              40.97412637191093
             ]
           ]
         ]
@@ -224,34 +224,34 @@
       "type": "Feature",
       "properties": {
         "MSATTGT_ID": 3,
-        "OGIM_ID": "6pppzdf431g00",
+        "OGIM_ID": "k17npps16ho00",
         "history": [
           {
-            "totalMethane": 25787,
+            "totalMethane": 26843,
             "time": 1
           },
           {
-            "totalMethane": 25827,
-            "time": 4
+            "totalMethane": 28156,
+            "time": 2
           },
           {
-            "totalMethane": 27551,
+            "totalMethane": 26533,
+            "time": 3
+          },
+          {
+            "totalMethane": 28452,
             "time": 5
           },
           {
-            "totalMethane": 26462,
-            "time": 6
-          },
-          {
-            "totalMethane": 24338,
+            "totalMethane": 27780,
             "time": 8
           },
           {
-            "totalMethane": 26556,
+            "totalMethane": 25137,
             "time": 10
           },
           {
-            "totalMethane": 29175,
+            "totalMethane": 25840,
             "time": 11
           }
         ],
@@ -262,32 +262,32 @@
           150,
           198
         ],
-        "totalAreaKM2": 10821.158313796268,
-        "totalMethaneAllTime": 260676
+        "totalAreaKM2": 8200.093204593308,
+        "totalMethaneAllTime": 272582.5
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -120.97108433910226,
-              29.661879083522898
+              -68.83846595109135,
+              49.067930932076095
             ],
             [
-              -120.97108433910226,
-              28.661879083522898
+              -68.83846595109135,
+              48.067930932076095
             ],
             [
-              -121.97108433910226,
-              28.661879083522898
+              -69.83846595109135,
+              48.067930932076095
             ],
             [
-              -121.97108433910226,
-              29.661879083522898
+              -69.83846595109135,
+              49.067930932076095
             ],
             [
-              -120.97108433910226,
-              29.661879083522898
+              -68.83846595109135,
+              49.067930932076095
             ]
           ]
         ]
@@ -297,35 +297,35 @@
       "type": "Feature",
       "properties": {
         "MSATTGT_ID": 4,
-        "OGIM_ID": "6yr718awou000",
+        "OGIM_ID": "ek1wg44mzgo00",
         "history": [
           {
-            "totalMethane": 28724,
+            "totalMethane": 29953,
+            "time": 0
+          },
+          {
+            "totalMethane": 28398,
             "time": 2
           },
           {
-            "totalMethane": 28382,
+            "totalMethane": 25647,
+            "time": 4
+          },
+          {
+            "totalMethane": 24058,
             "time": 5
           },
           {
-            "totalMethane": 25772,
-            "time": 6
+            "totalMethane": 26634,
+            "time": 7
           },
           {
-            "totalMethane": 28032,
-            "time": 8
+            "totalMethane": 29101,
+            "time": 9
           },
           {
-            "totalMethane": 27449,
+            "totalMethane": 27112,
             "time": 10
-          },
-          {
-            "totalMethane": 26267,
-            "time": 12
-          },
-          {
-            "totalMethane": 26703,
-            "time": 14
           }
         ],
         "category": "medium",
@@ -335,32 +335,32 @@
           150,
           198
         ],
-        "totalAreaKM2": 8849.31297665113,
-        "totalMethaneAllTime": 328707
+        "totalAreaKM2": 9389.74155193576,
+        "totalMethaneAllTime": 271782
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -91.34848481721727,
-              44.92867866969293
+              -126.46876662171323,
+              41.23516952175028
             ],
             [
-              -91.34848481721727,
-              43.92867866969293
+              -126.46876662171323,
+              40.23516952175028
             ],
             [
-              -92.34848481721727,
-              43.92867866969293
+              -127.46876662171323,
+              40.23516952175028
             ],
             [
-              -92.34848481721727,
-              44.92867866969293
+              -127.46876662171323,
+              41.23516952175028
             ],
             [
-              -91.34848481721727,
-              44.92867866969293
+              -126.46876662171323,
+              41.23516952175028
             ]
           ]
         ]
