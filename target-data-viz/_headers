@@ -1,3 +1,4 @@
 /*
     Access-Control-Allow-Origin: https://rc9zj2.csb.app/
     Access-Control-Allow-Headers: Access-Control-Allow-Origin
+    Access-Control-Max-Age: 0
